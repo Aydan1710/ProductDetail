@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.small-img-group{
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.small-img-col{
+    flex-basis: 24%;
+    cursor: pointer;
+}
+
+.color{
+    color: red;
+}
+.icon{
+    color: gray;
+    margin-left: 10px;
+    
+}
+
+.publish{
+    margin-left: 30px;
+    padding-top: 10px;
+}
+    
+.choose{
+    margin-left: 30px;
+}
+.row hr{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.row p{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.row h2{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+
+
+.row h5{
+    margin-left: 30px;
+    padding-top: 20px;
+}
+
+.btn{
+   margin-left: 30px;
+    padding-right: 5px;
+}
+
+
+
